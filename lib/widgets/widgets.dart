@@ -1,0 +1,1 @@
+export 'package:pelimov/widgets/card_swiper.dart';

@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
 class DetailsScreen extends StatelessWidget {
-  // key es un referencia para poder identificar este widget en el arbol de widgets de manera independiente
+  // key es un referencia para poder identificar este widget en el arbol de widgets de manera independiente o especifica
   const DetailsScreen({super.key});
 
   @override
